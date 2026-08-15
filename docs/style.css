@@ -3504,10 +3504,12 @@ html[lang="en"] .legal-info-grid::after { content: "OFFICIAL RECORD"; }
   }
 }
 
-/* ── Performance: content-visibility for off-screen sections ── */
+/* ── Performance: content-visibility for off-screen sections ──
+   Removed contain-intrinsic-size guess: it reserved 400px per .section
+   regardless of real height, leaving a large empty gap before the
+   footer on pages whose last section is shorter than that estimate. */
 .section {
   content-visibility: auto;
-  contain-intrinsic-size: auto 400px;
 }
 
 /* ── Smooth image loading ── */
