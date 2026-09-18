@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F[locale]","\u002F[locale]\u002F[slug]","\u002F[locale]\u002F[slug]\u002Fopengraph-image","\u002F[locale]\u002Fapps","\u002F[locale]\u002Fapps\u002Fopengraph-image","\u002F[locale]\u002Fopengraph-image"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

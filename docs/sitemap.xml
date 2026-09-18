@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://connectedmate.com</loc>
-<lastmod>2026-09-10T07:50:17.244Z</lastmod>
+<lastmod>2026-09-18T09:19:39.334Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -18,6 +18,70 @@
 <loc>https://connectedmate.com/fr/apps</loc>
 <xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps" />
 <xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps" />
+<lastmod>2026-09-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/balaye</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/balaye" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/balaye" />
+<lastmod>2026-09-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/builder-nutch</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/builder-nutch" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/builder-nutch" />
+<lastmod>2026-09-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/annotate-kit</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/annotate-kit" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/annotate-kit" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/better-dictate</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/better-dictate" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/better-dictate" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/dys-keyboard</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/dys-keyboard" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/dys-keyboard" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/notetaker-ai</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/notetaker-ai" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/notetaker-ai" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/pock</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/pock" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/pock" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/specdrive</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/specdrive" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/specdrive" />
 <lastmod>2026-09-01T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
@@ -114,6 +178,70 @@
 <loc>https://connectedmate.com/en/apps</loc>
 <xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps" />
 <xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps" />
+<lastmod>2026-09-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/balaye</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/balaye" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/balaye" />
+<lastmod>2026-09-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/builder-nutch</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/builder-nutch" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/builder-nutch" />
+<lastmod>2026-09-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/annotate-kit</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/annotate-kit" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/annotate-kit" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/better-dictate</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/better-dictate" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/better-dictate" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/dys-keyboard</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/dys-keyboard" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/dys-keyboard" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/notetaker-ai</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/notetaker-ai" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/notetaker-ai" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/pock</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/pock" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/pock" />
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/specdrive</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/specdrive" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/specdrive" />
 <lastmod>2026-09-01T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
