@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://connectedmate.com</loc>
-<lastmod>2026-10-25T08:58:25.336Z</lastmod>
+<lastmod>2026-10-25T09:02:38.899Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -27,30 +27,6 @@
 <xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/imessage-connector" />
 <xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/imessage-connector" />
 <lastmod>2026-10-23T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://connectedmate.com/fr/apps/stash</loc>
-<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/stash" />
-<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/stash" />
-<lastmod>2026-10-22T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://connectedmate.com/fr/apps/gengen</loc>
-<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/gengen" />
-<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/gengen" />
-<lastmod>2026-10-21T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://connectedmate.com/fr/apps/folio</loc>
-<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/folio" />
-<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/folio" />
-<lastmod>2026-10-20T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -219,30 +195,6 @@
 <xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/imessage-connector" />
 <xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/imessage-connector" />
 <lastmod>2026-10-23T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://connectedmate.com/en/apps/stash</loc>
-<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/stash" />
-<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/stash" />
-<lastmod>2026-10-22T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://connectedmate.com/en/apps/gengen</loc>
-<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/gengen" />
-<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/gengen" />
-<lastmod>2026-10-21T00:00:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://connectedmate.com/en/apps/folio</loc>
-<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/folio" />
-<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/folio" />
-<lastmod>2026-10-20T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
