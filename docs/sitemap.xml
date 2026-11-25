@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://connectedmate.com</loc>
-<lastmod>2026-11-25T06:35:47.866Z</lastmod>
+<lastmod>2026-11-25T09:32:26.906Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -18,7 +18,15 @@
 <loc>https://connectedmate.com/fr/apps</loc>
 <xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps" />
 <xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps" />
-<lastmod>2026-10-23T00:00:00.000Z</lastmod>
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/fr/apps/vigie</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/vigie" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/vigie" />
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -186,7 +194,15 @@
 <loc>https://connectedmate.com/en/apps</loc>
 <xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps" />
 <xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps" />
-<lastmod>2026-10-23T00:00:00.000Z</lastmod>
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://connectedmate.com/en/apps/vigie</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://connectedmate.com/fr/apps/vigie" />
+<xhtml:link rel="alternate" hreflang="en" href="https://connectedmate.com/en/apps/vigie" />
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
